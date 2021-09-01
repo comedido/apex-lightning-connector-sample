@@ -1,4 +1,4 @@
-# apex-Lightning-Connector-Sample
+# apex-lightning-connector-sample
 
 A simple example of how to implement an OData client in Apex using the Apex Lightning Connector for Salesforce.
 
